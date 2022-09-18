@@ -19,5 +19,5 @@ When exercising, glucose molecules in the body are converted into energy to fuel
 An Analysis of Linear Regression with Machine Learning:
 Advantages| Disadvantages
 ------------- | -------------
-Easy to implement, interpret and efficient to train  | Accuracy suffers when impossible, unlikely, and incomplete values have been inputted as training data
-Allows for extrapolation beyond a specific data set | Linear regression performs poorly when there are non-linear relationships
+Model was easy to implement, interpret and efficient to train  | Accuracy suffers when impossible, unlikely, and incomplete values have been inputted as training data
+Allows for extrapolation beyond the specific data set | Linear regression performs poorly when there are non-linear relationships
