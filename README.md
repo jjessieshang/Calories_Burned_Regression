@@ -10,7 +10,7 @@ Machine learning can be organized into two categories:
 
 * Unsupervised Learning involves modeling the features of a dataset without reference to any label, and is often described as "letting the dataset speak for itself." These models include tasks such as clustering and dimensionality reduction. A territory of unsupervised learning that peaks my interest is that of neural networks - computing systems inspired by the biological neural networks that constitute animal brains. Some examples include GPT-3 which produces human-like text and DALL-E which generates digital images from natural language descriptions.
 
-# A Simple Machine Learning Application: 
+# A Simple Machine Learning Application
 I have created a statistical machine learning system which predicts how many calories are burned by a person during exercise. This model is a useful tool for calorie counting purposes; the model informs you the amount of exercise necessary for a specific individual to reach their fitness goals!
 
 What happens when you exercise?
