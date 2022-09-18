@@ -10,10 +10,14 @@ Machine learning can be organized into two categories:
 
 * Unsupervised Learning involves modeling the features of a dataset without reference to any label, and is often described as "letting the dataset speak for itself." These models include tasks such as clustering and dimensionality reduction. A territory of unsupervised learning that peaks my interest is that of neural networks - computing systems inspired by the biological neural networks that constitute animal brains. Some examples include GPT-3 which produces human-like text and DALL-E which generates digital images from natural language descriptions.
 
-# Examples of Machine Learning Applications
-I have created a machine learning algorithm to predict how many calories are burnt by a person doing exercise, given factors like genfder, height, weight, body temperature, age, average heart ratte, and duration of exercise.
+# A Simple Machine Learning Application: 
+I have created a statistical machine learning system which predicts how many calories are burned by a person during exercise. This model is a useful tool for calorie counting purposes; the model informs you the amount of exercise necessary for a specific individual to reach their fitness goals!
 
-Pros| Cons
+What happens when you exercise?
+When exercising, glucose molecules in the body are converted into energy to fuel metabolic activities. The number of calories burned is the amount of energy the body uses during a specific activity, which varies for each individual. **This machine learning model takes parameters including: gender, height, weight, body temperature, age, average heart rate, and duration of exercise to predict the number of calories burned during exercise.**
+
+An Analysis of Linear Regression with Machine Learning:
+Advantages| Disadvantages
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  |  \| 
+Easy to implement, interpret and efficient to train  | Accuracy suffers when impossible, unlikely, and incomplete values have been inputted as training data
+Allows for extrapolation beyond a specific data set | Linear regression performs poorly when there are non-linear relationships
